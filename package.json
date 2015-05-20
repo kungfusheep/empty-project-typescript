@@ -1,12 +1,12 @@
 {
-  "name": "blank-project-typescript",
+  "name": " ",
   "version": "1.0.0",
-  "description": "a blank project",
+  "description": "",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@kungfusheep",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "2.7.1",
